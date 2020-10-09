@@ -1,14 +1,14 @@
 #binary_search.py
-#Date: 03/October/2020
+#Date: 08/October/2020
 #by irving-rs
 
 #Description:
 #Binary Search: Searches a number inside a list using the binary search algorithm.
 
 #Details:
-#The user will be asked how many elements want to be created following the expression y = n^2 + 2.
+#The user will be asked how many elements will be created following the expression y = n^2 + 2.
 #The user will select a number and the program will return the position (index) on the list where that value is found.
-#The program will inform the user if the numbered is not in the list.
+#The program will inform the user if the number is not in the list.
 
 
 #FUNCTIONS:
